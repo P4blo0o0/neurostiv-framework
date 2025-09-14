@@ -1,32 +1,34 @@
 # 🧠 Neurostiv Framework
 
-[Русская версия](README.md)
+[![Russian](https://img.shields.io/badge/Russian--lightgrey?style=flat&logo=google-translate)](README.md)
 
 **An architecture for adaptive Human-AI teams, inspired by neuroscience principles**
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![Stage](https://img.shields.io/badge/Stage-Research%20Protocol-orange)]() [![Version](https://img.shields.io/badge/Version-1.1-blue)]()
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Stage](https://img.shields.io/badge/Stage-Research%20Protocol-orange)]()
+[![Version](https://img.shields.io/badge/Version-1.1-blue)]()
 
 ## 🎯 What is it?
 
 Neurostiv Framework is an open protocol for designing adaptive human-AI teams, based on the principles of neural network operation: **redundant connectivity** and **functional plasticity**.
 
-**Problem:** AI assistants are not yet effectively integrated into team collaboration  
-**Solution:** An architectural approach inspired by neuroscience  
-**Goal:** Measurable improvement in adaptability to new tasks
+> **Problem:** AI assistants are not yet effectively integrated into team collaboration  
+> **Solution:** An architectural approach inspired by neuroscience  
+> **Goal:** Measurable improvement in adaptability to new tasks
 
 ## 📖 Documentation
 
-- [**Full Protocol v1.1**](docs/protocol-v1.1.md) — core article
-- [Mathematical Model](docs/mathematical-model.md) — formalization
-- [Validation Plan](docs/validation-plan.md) — how to test the hypothesis
-- [Ethical Protocol](docs/ethics-protocol.md) — data handling principles
+- [**Full Protocol v1.1**](docs/protocol-v1.1.md) — core article *(in development)*
+- [Mathematical Model](docs/mathematical-model.md) — formalization *(planned)*
+- [Validation Plan](docs/validation-plan.md) — how to test the hypothesis *(planned)*
+- [Ethical Protocol](docs/ethics-protocol.md) — data handling principles *(planned)*
 
 ## 🧪 Experimental Validation
 
 | Stage | Status | Description |
 |-------|--------|-------------|
 | **0 - Synthetic** | 🔄 In Development | Simulation on OpenAI Gym |
-| **0.5 - Laboratory** | 📋 Planned | 20–30 participants, simplified environment |
+| **0.5 - Laboratory** | 📋 Planned | 20-30 participants, simplified environment |
 | **1 - Industry** | 💭 Concept | Real teams, non-critical projects |
 
 ## 🤝 Join the Research
@@ -37,7 +39,7 @@ Neurostiv Framework is an open protocol for designing adaptive human-AI teams, b
 - 🏢 **Companies** — pilot programs and validation
 
 **How to join:**
-- [Issues](../../issues) — discussions and suggestions
+- [Create new question or suggestion](https://github.com/designhumanai/neurostiv-framework/issues/new/choose) — discussions and proposals
 - [Contributing](CONTRIBUTING.md) — guidelines for participants
 - [Telegram](https://t.me/dhaie_human_ai) — live communication
 
@@ -47,6 +49,9 @@ Neurostiv Framework is a concrete implementation of principles from [DHAIE](http
 
 ---
 
-**Author:** Viktor Savitsky, Engineering Psychologist  
+> [!NOTE]
+> Available in other languages: [Russian](README.md)
+
+**Author:** [Viktor Savitsky](https://github.com/designhumanai), Engineering Psychologist  
 **Project:** [DHAIE](https://github.com/designhumanai) | [Website](https://designhumanai.com)  
 **Contact:** [viktor@designhumanai.com](mailto:viktor@designhumanai.com)
