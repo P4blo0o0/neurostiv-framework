@@ -55,3 +55,4 @@ Neurostiv Framework — конкретная реализация принцип
 **Автор:** [Виктор Савицкий](https://github.com/designhumanai), инженерный психолог  
 **Проект:** [DHAIE](https://github.com/designhumanai) | [Сайт](https://designhumanai.com)  
 **Контакт:** [viktor@designhumanai.com](mailto:viktor@designhumanai.com)
+
