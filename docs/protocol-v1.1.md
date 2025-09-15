@@ -355,7 +355,7 @@ Neurostiv — это открытый протокол. Его истиннос�
 
 ## Лицензия и авторские права
 
-**Лицензия:** Материалы статьи и спецификации протокола Neurostiv Framework распространяются по лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+**Лицензия:** Материалы статьи и спецификации протокола Neurostiv Framework распространяются по лицензии [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 **Copyright:** © 2025 Виктор Савицкий, DHAIE Project. Все права защищены, если не указано иное.
 
