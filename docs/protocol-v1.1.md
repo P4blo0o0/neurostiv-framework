@@ -1,6 +1,6 @@
 # Neurostiv Framework: Принципы мозга как инженерный протокол для адаптивных человеко-ИИ команд (v1.1)
 
-[![English](https://img.shields.io/badge/English-blue?style=flat&logo=googletranslate&logoColor=white)](neurostiv-framework/docs/protocol-v1.1.en.md)
+[![English](https://img.shields.io/badge/English-blue?style=flat&logo=googletranslate&logoColor=white)](protocol-v1.1.en.md)
 
 ## Аннотация
 **Проблема:** Существующие архитектуры человеко-машинного взаимодействия демонстрируют низкую адаптивность к неопределенности и новым задачам, что создает когнитивное "узкое горлышко" при интеграции ИИ в командную работу.
