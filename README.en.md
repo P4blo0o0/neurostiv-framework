@@ -18,7 +18,7 @@ Neurostiv Framework is an open protocol for designing adaptive human-AI teams, b
 
 ## 📖 Documentation
 
-- [**Full Protocol v1.1**](docs/protocol-v1.1.md) — core article *(in development)*
+- [**Full Protocol v1.1**](docs/protocol-v1.1.en.md) — core article *(in development)*
 - [Mathematical Model](docs/mathematical-model.md) — formalization *(planned)*
 - [Validation Plan](docs/validation-plan.md) — how to test the hypothesis *(planned)*
 - [Ethical Protocol](docs/ethics-protocol.md) — data handling principles *(planned)*
@@ -55,3 +55,4 @@ Neurostiv Framework is a concrete implementation of principles from [DHAIE](http
 **Author:** [Viktor Savitsky](https://github.com/designhumanai), Engineering Psychologist  
 **Project:** [DHAIE](https://github.com/designhumanai) | [Website](https://designhumanai.com)  
 **Contact:** [viktor@designhumanai.com](mailto:viktor@designhumanai.com)
+
