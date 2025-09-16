@@ -1,6 +1,6 @@
 # Neurostiv Framework: Brain Principles as an Engineering Protocol for Adaptive Human-AI Teams (v1.1)
 
-[![Русский](https://img.shields.io/badge/Русский-red?style=flat&logo=googletranslate&logoColor=white)](README.md)
+[![Русский](https://img.shields.io/badge/Русский-red?style=flat&logo=googletranslate&logoColor=white)](docs/protocol-v1.1.md)
 
 ## Abstract
 
