@@ -1,5 +1,7 @@
 # Neurostiv Framework: Brain Principles as an Engineering Protocol for Adaptive Human-AI Teams (v1.1)
 
+[![Русский](https://img.shields.io/badge/Русский-red?style=flat&logo=googletranslate&logoColor=white)](README.md)
+
 ## Abstract
 
 **Problem:** Existing human-machine interaction architectures demonstrate low adaptability to uncertainty and novel tasks, creating a cognitive "bottleneck" when integrating AI into teamwork.
