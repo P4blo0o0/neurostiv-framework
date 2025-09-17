@@ -158,6 +158,7 @@ The challenge: rapid adaptation under uncertainty and high-stakes decision-makin
 
 ## 10. Practical Templates
 - **Role Matrix:** Who decides, who informs, who executes.  
+  *Example: `Decision: Product Owner | Inform: Security Team | Execute: DevOps`*  
 - **Feedback Dashboard:** Weekly pulse on alignment and progress.  
 - **Emergence Map:** Tracks new insights and where they originated.  
 - **Retrospective Guide:** Structured prompts for continuous improvement.  
@@ -170,6 +171,7 @@ The challenge: rapid adaptation under uncertainty and high-stakes decision-makin
 - **Emergence:** When combined team actions yield insights that no individual foresaw.  
 - **Meta-Adaptivity:** Capability of redesigning your adaptation process itself.  
 - **Decision Latency:** The delay between recognizing a trigger and making a decision.  
+  *💡 *Check yourself: Think about the last important decision your team made. Can you assess its latency?**  
 - **Positive Spiral:** A reinforcing loop where progress accelerates with each iteration.  
 
 ---
@@ -178,7 +180,7 @@ The challenge: rapid adaptation under uncertainty and high-stakes decision-makin
 
 - **Stakeholder Alignment:** [Request a custom executive briefing](PARTNERSHIP.md) for your leadership team to assess strategic fit and ROI.  
 - **Team Readiness:** Use our [guided questionnaire](https://github.com/designhumanai/neurostiv-framework/discussions/categories/strategic-partnerships) to spark internal dialogue.  
-- **Knowledge Sharing:** Contribute lessons in [GitHub Discussions](https://github.com/designhumanai/neurostiv-framework/discussions).  
+- **Knowledge Sharing:** Share your experience and learn from others in [GitHub Discussions](https://github.com/designhumanai/neurostiv-framework/discussions). Explore topics like implementation cases and best practices.  
 
 ---
 
