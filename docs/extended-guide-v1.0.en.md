@@ -180,7 +180,7 @@ The challenge: rapid adaptation under uncertainty and high-stakes decision-makin
 
 - **Stakeholder Alignment:** [Request a custom executive briefing](PARTNERSHIP.md) for your leadership team to assess strategic fit and ROI.  
 - **Team Readiness:** Use our [guided questionnaire](https://github.com/designhumanai/neurostiv-framework/discussions/categories/strategic-partnerships) to spark internal dialogue.  
-- **Knowledge Sharing:** Share your experience and learn from others in [GitHub Discussions](https://github.com/designhumanai/neurostiv-framework/discussions). Explore topics like implementation cases and best practices.  
+- **Knowledge Sharing:** Join active discussions in [GitHub Discussions](https://github.com/designhumanai/neurostiv-framework/discussions) (e.g., "Adapting for FinTech risk models"). Share your experience and learn from others.  
 
 ---
 
