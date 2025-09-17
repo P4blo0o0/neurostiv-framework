@@ -2,19 +2,19 @@
 
 **© 2024 DesignHumanAI. All Rights Reserved.**
 
-This implementation protocol contains the proprietary operational mechanics, role definitions, and system interaction specifications for the Neurostiv Framework.
+This document constitutes the official implementation protocol for the Neurostiv Framework. It defines proprietary operational mechanisms, role specifications, and system interaction standards intended for licensed enterprise and strategic partners.
 
-## Access to the Protocol
+## Protocol Access
 
-The Neurostiv Protocol is a commercial-grade implementation framework available under license to enterprise partners and strategic collaborators.
+The Neurostiv Implementation Protocol is provided under commercial license. Access is restricted to authorized enterprise and strategic partners.
 
-*   **To explore the conceptual foundation and benefits of the Neurostiv Framework,** please refer to our open-source [Extended Guide](https://github.com/designhumanai/neurostiv-framework/blob/main/docs/extended-guide-v1.0.en.md).
-*   **To inquire about licensing, partnership, or acquiring the complete protocol,** please initiate a discussion in our [GitHub Discussions](https://github.com/designhumanai/neurostiv-framework/discussions) board under **"Strategic Partnerships"** or contact us directly.
+* **Conceptual Foundation & Benefits:** For an overview of Neurostiv’s principles, architecture, and strategic advantages, refer to our open-source [Extended Guide](https://github.com/designhumanai/neurostiv-framework/blob/main/docs/extended-guide-v1.0.en.md).  
+* **Licensing, Partnership, or Full Protocol Requests:** Initiate a discussion in our [GitHub Discussions](https://github.com/designhumanai/neurostiv-framework/discussions) board under **"Strategic Partnerships"** or contact us directly.
 
-## For Our Community
+## Community Commitment
 
-We remain committed to open knowledge sharing. While the core implementation engine is commercial, we continue to develop open-source tools, templates, and guides to advance the field of human-AI collaboration.
+DesignHumanAI remains committed to the open sharing of knowledge. While the core implementation engine is proprietary, we actively develop open-source tools, templates, and guidelines to foster innovation and advance the field of human–AI collaboration.
 
-Thank you for your understanding and interest in Neurostiv.
+We appreciate your interest in Neurostiv and your commitment to advancing human–AI systems responsibly.
 
 — The DesignHumanAI Team
