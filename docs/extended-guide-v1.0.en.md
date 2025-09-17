@@ -121,14 +121,33 @@ A cross-functional team of engineers, psychologists, and AI systems collaborates
 The challenge: rapid adaptation under uncertainty and high-stakes decision-making.
 
 ### Application of the Framework
-1. **Connectivity** — Shared data layers allow both humans and AI to access the same situational updates in real-time.  
-2. **Plasticity** — When unexpected conditions arise, roles and responsibilities dynamically adjust (e.g., AI shifts from predictive modeling to resource allocation).  
-3. **Feedback Loop** — Continuous evaluation ensures that ineffective actions are corrected within minutes.  
-4. **Positive Spiral** — Small successes (e.g., early rescue) reinforce trust, which accelerates further coordinated decisions.  
+1.  **Connectivity** — Shared data layers allow both humans and AI to access the same situational updates in real-time.
+
+    ```mermaid
+    graph LR
+      H(Human Experts<br>Engineers, Psychologists)
+      SDL[Shared Data Layer<br>Real-time situational updates]
+      AI(AI Systems<br>Models & Agents)
+
+      H <--> SDL
+      AI <--> SDL
+    ```
+
+2.  **Plasticity** — When unexpected conditions arise, roles and responsibilities dynamically adjust (e.g., AI shifts from predictive modeling to resource allocation).
+3.  **Feedback Loop** — Continuous evaluation ensures that ineffective actions are corrected within minutes.
+4.  **Positive Spiral** — Small successes (e.g., early rescue) reinforce trust, which accelerates further coordinated decisions.
+
+    ```mermaid
+    graph LR
+    A[Раннее спасение<br>Small success] --> B[Рост доверия в команде<br>Trust increases]
+    B --> C[Снижение времени на согласования<br>Faster decisions]
+    C --> D[Координация более сложных операций<br>Larger success]
+    D -->|Reinforces| B
+    ```
 
 ### Outcome
-- **Efficiency**: Decision time reduced by 40%.  
-- **Resilience**: The team adapts seamlessly to changing conditions.  
+- **Efficiency**: **Decision latency can be slashed** by minimizing discussion loops and parallelizing tasks. *How to measure: track the time from a defined trigger (e.g., new data input) to a documented decision.*
+- **Resilience**: The team adapts seamlessly to changing conditions.
 - **Trust**: Human experts and AI report higher confidence in joint outcomes.  
 
 ---
