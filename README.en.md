@@ -38,7 +38,7 @@ This implementation protocol contains proprietary operational mechanisms, role d
 Neurostiv Protocol is an enterprise-level implementation available under license for partners and strategic collaborators.
 
 **To access the protocol:**
-- 💼 [Strategic Partnerships](https://github.com/designhumanai/neurostiv-framework/discussions/categories/strategic-partnerships) — partnership discussions  
+- 💼 [Strategic Partnerships](docs/PARTNERSHIP_EN_v1.0.md) — partnership discussions  
 - 📧 Direct contact via GitHub Discussions
 - 🎯 Full protocol requests for qualified clients
 
@@ -125,5 +125,6 @@ Neurostiv Framework is a practical implementation of **[DHAIE](https://github.co
 
 **Thank you for your understanding and interest in Neurostiv.**  
 — DesignHumanAI Team
+
 
 
