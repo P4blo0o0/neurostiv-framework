@@ -97,7 +97,7 @@ Neurostiv Framework превращает хаос внедрения ИИ в с�
 ### 🔗 Как участвовать
 - **[GitHub Discussions](https://github.com/designhumanai/neurostiv-framework/discussions)** — активные обсуждения
 - **[Issues](https://github.com/designhumanai/neurostiv-framework/issues)** — предложения по улучшению
-- **[Strategic Partnerships](https://github.com/designhumanai/neurostiv-framework/docs/PARTNERSHIP_v1.0.md)** — корпоративное сотрудничество
+- **[Strategic Partnerships](docs/PARTNERSHIP_v1.0.md)** — корпоративное сотрудничество
 
 ---
 
@@ -125,5 +125,6 @@ Neurostiv Framework — практическая реализация принц
 
 **Спасибо за ваше понимание и интерес к Neurostiv.**  
 — Команда DesignHumanAI
+
 
 
