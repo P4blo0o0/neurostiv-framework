@@ -63,9 +63,9 @@ Each format entails different levels of responsibility, intellectual property ri
 ## 4. How to Join
 
 ### 🚀 Start Participating
-1. **Review the documentation** — Familiarize yourself with the [project documentation](https://github.com/designhumanai/neurostiv-framework).  
-2. **Join the discussions** — Participate in [GitHub Discussions](https://github.com/designhumanai/neurostiv-framework/discussions).  
-3. **Suggest an idea** — Create a discussion in the [Strategic Partnerships](https://github.com/designhumanai/neurostiv-framework/discussions/categories/strategic-partnerships) category.  
+1. **Review the documentation** — Familiarize yourself with the [project documentation](PARTNERSHIP_EN_v1.0.md).  
+2. **Join the discussions** — Participate in [GitHub Discussions](PARTNERSHIP_EN_v1.0.md).  
+3. **Suggest an idea** — Create a discussion in the [Strategic Partnerships](PARTNERSHIP_EN_v1.0.md) category.  
 
 ### 💌 Direct Contact
 To discuss individual partnership terms:  
