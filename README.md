@@ -1,5 +1,7 @@
 # 🧠 Neurostiv Framework
 
+> **🇺🇸 [English version](README.en.md)**
+
 **Протокол адаптивных команд «человек–ИИ» на принципах нейронауки**
 
 *Версия 1.1 | Apache 2.0 License*
