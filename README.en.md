@@ -97,7 +97,7 @@ We remain committed to open knowledge sharing. While the system core is commerci
 ### 🔗 How to Participate
 - **[GitHub Discussions](https://github.com/designhumanai/neurostiv-framework/discussions)** — active discussions
 - **[Issues](https://github.com/designhumanai/neurostiv-framework/issues)** — improvement suggestions
-- **[Strategic Partnerships](https://github.com/designhumanai/neurostiv-framework/discussions/categories/strategic-partnerships)** — enterprise collaboration
+- **[Strategic Partnerships](https://github.com/designhumanai/neurostiv-framework/docs/PARTNERSHIP_EN_v1.0.md)** — enterprise collaboration
 
 ---
 
@@ -125,3 +125,4 @@ Neurostiv Framework is a practical implementation of **[DHAIE](https://github.co
 
 **Thank you for your understanding and interest in Neurostiv.**  
 — DesignHumanAI Team
+
