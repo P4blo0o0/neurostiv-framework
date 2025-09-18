@@ -125,6 +125,3 @@ Neurostiv Framework is a practical implementation of **[DHAIE](https://github.co
 
 **Thank you for your understanding and interest in Neurostiv.**  
 — DesignHumanAI Team
-
-
-
