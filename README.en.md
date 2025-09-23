@@ -27,20 +27,23 @@ Neurostiv Framework transforms AI implementation chaos into systematic Human-AI 
 - **[Расширенное руководство v1.0](docs/extended-guide-v1.0.md)** — Russian version of the comprehensive guide
 - **[Practical Templates](templates/)** — ready-to-use tools for teams
 
-### 🔐 Enterprise Solutions
+### 🔐 Corporate Solutions
 
 **Neurostiv Implementation Protocol v1.1**  
-*© 2024 DesignHumanAI. All rights reserved.*
+*© 2024 DesignHumanAI. All rights reserved.*  
+*Document version: 1.0 (September 2025)*  
 
-This implementation protocol contains proprietary operational mechanisms, role definitions, and system interaction specifications for the Neurostiv framework.
+This implementation protocol contains proprietary operational mechanisms, role definitions, and system interaction specifications for the Neurostiv framework.  
 
-#### 🤝 Protocol Access
-Neurostiv Protocol is an enterprise-level implementation available under license for partners and strategic collaborators.
+#### 🤝 Access to the Protocol  
+The Neurostiv protocol is a corporate-level implementation available under license to partners and strategic collaborators.  
 
-**To access the protocol:**
-- 💼 [Strategic Partnerships](docs/PARTNERSHIP_EN_v1.0.md) — partnership discussions  
-- 📧 Direct contact via GitHub Discussions
-- 🎯 Full protocol requests for qualified clients
+**To request access:**  
+- 💼 [Strategic Partnerships](https://github.com/designhumanai/neurostiv-framework/blob/main/docs/PARTNERSHIP_EN_v1.0.md) — partnership discussions  
+- 📧 Direct contact via GitHub Discussions  
+- 🎯 Full protocol request for qualified clients  
+
+*For commercial licensing or partnership inquiries regarding proprietary components, please contact: partnerships@designhumanai.com*
 
 ---
 
@@ -109,9 +112,27 @@ Neurostiv Framework is a practical implementation of **[DHAIE](https://github.co
 
 ## 📄 License and Copyright
 
-- **Open Materials:** Apache License 2.0
-- **Protocol v1.1:** Proprietary license © 2024 DesignHumanAI
-- **Commercial Use:** By agreement with copyright holder
+- **Open Materials:** Apache License 2.0  
+- **Protocol v1.1:** Proprietary License © 2024 DesignHumanAI  
+- **Commercial Usage:** By agreement with the rights holder  
+
+### 📋 Intellectual Property Notice  
+*Document version: 1.0 (September 2025)*  
+
+This framework includes both open-source components (Apache 2.0) and proprietary Neurostiv intellectual property, including core operational mechanisms, role definitions, and system interaction specifications.  
+
+**Open Source (Apache 2.0):**  
+- Template structures and implementation examples  
+- Methodology descriptions and adaptation guidelines  
+- Community resources and educational materials  
+
+**Proprietary Components (Neurostiv IP):**  
+- Core operational mechanisms, including proprietary algorithms and evaluation methods  
+- Role definition frameworks and interaction protocols  
+- System integration specifications and measurement systems  
+
+*For commercial licensing inquiries, please contact: partnerships@designhumanai.com*  
+
 
 ---
 
@@ -125,3 +146,4 @@ Neurostiv Framework is a practical implementation of **[DHAIE](https://github.co
 
 **Thank you for your understanding and interest in Neurostiv.**  
 — DesignHumanAI Team
+
