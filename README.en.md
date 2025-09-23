@@ -121,6 +121,8 @@ Neurostiv Framework is a practical implementation of **[DHAIE](https://github.co
 
 This framework includes both open-source components (Apache 2.0) and proprietary Neurostiv intellectual property, including core operational mechanisms, role definitions, and system interaction specifications.  
 
+**📖 Full notice version:** [PROPRIETARY_NOTICE.md](PROPRIETARY_NOTICE.md)
+
 **Open Source (Apache 2.0):**  
 - Template structures and implementation examples  
 - Methodology descriptions and adaptation guidelines  
@@ -146,4 +148,5 @@ This framework includes both open-source components (Apache 2.0) and proprietary
 
 **Thank you for your understanding and interest in Neurostiv.**  
 — DesignHumanAI Team
+
 
