@@ -3,9 +3,26 @@ description: Report a bug
 title: "[BUG] "
 labels: ["bug"]
 body:
+  - type: dropdown
+    attributes:
+      label: Which template?
+      options:
+        - RAG Assessment Card
+        - NTSR Innovation Tracker
+        - Role Responsibility Matrix
+        - Team Readiness Assessment
+        - Weekly Retrospective Guide
+        - Emergence Mapping
+        - Decision Latency Tracker
   - type: textarea
     attributes:
       label: What happened?
       description: Tell us what bug you encountered
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected behavior?
+      description: What should have happened?
     validations:
       required: true
