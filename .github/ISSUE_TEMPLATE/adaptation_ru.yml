@@ -4,6 +4,7 @@ title: "[АДАПТАЦИЯ] "
 labels: ["community", "adaptation"]
 body:
   - type: dropdown
+    id: template
     attributes:
       label: Какой шаблон адаптирован?
       options:
@@ -16,14 +17,17 @@ body:
         - Decision Latency Tracker
         - Несколько шаблонов
   - type: textarea
+    id: industry
     attributes:
       label: Для какой индустрии/сферы?
       placeholder: Например: IT, образование, здравоохранение, финансы и т.д.
   - type: textarea
+    id: adaptation_desc
     attributes:
       label: Описание адаптации
       placeholder: Какие изменения вы внесли? Как адаптировали под свою сферу?
   - type: textarea
+    id: results
     attributes:
       label: Результаты и преимущества
       placeholder: Какие улучшения принесла адаптация?
