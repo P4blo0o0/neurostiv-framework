@@ -40,6 +40,6 @@
 ---
 
 **Контакты:** Виктор Савицкий | Neurostiv Framework  
-email@neurostiv.com | Telegram: @neurostiv
+email@designhumanai.com | Telegram: @DHAIE_official
 
 *«Мы исследуем не то, как использовать ИИ в организации, а то, как организация и ИИ могут стать единой эволюционирующей системой»* — **Виктор Савицкий, основатель Neurostiv Framework**
